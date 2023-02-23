@@ -1,0 +1,12 @@
+2023-02-21 23:15:32,269 INFO  [xmlLog4jExample] This is a info 
+2023-02-21 23:15:32,270 WARN  [xmlLog4jExample] This is a warn 
+2023-02-21 23:15:32,270 ERROR [xmlLog4jExample] This is a error 
+2023-02-21 23:15:32,270 FATAL [xmlLog4jExample] This is a fatal 
+2023-02-21 23:15:47,580 INFO  [xmlLog4jExample] This is a info 
+2023-02-21 23:15:47,583 WARN  [xmlLog4jExample] This is a warn 
+2023-02-21 23:15:47,583 ERROR [xmlLog4jExample] This is a error 
+2023-02-21 23:15:47,583 FATAL [xmlLog4jExample] This is a fatal 
+2023-02-22 23:10:50,574 INFO  [xmlLog4jExample] This is a info 
+2023-02-22 23:10:50,576 WARN  [xmlLog4jExample] This is a warn 
+2023-02-22 23:10:50,576 ERROR [xmlLog4jExample] This is a error 
+2023-02-22 23:10:50,576 FATAL [xmlLog4jExample] This is a fatal 

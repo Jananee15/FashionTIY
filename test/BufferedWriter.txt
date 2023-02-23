@@ -1,0 +1,1 @@
+This is a bufferedWriter's content
